@@ -5,6 +5,9 @@ El término **reproductibilidad** ( o *reproducibility*, en inglés) se refiere 
 puedan ser obtenidos porr otros al seguir la misma metodología.
 Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usarlos (Bezjak., 2018). Este concepto está relacionado con el de **replicabilidad** (o *replicability*, en inglés), el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo desempeño experimental. Estos conceptos son elementos centrales de la investiagación empírica.
 ### Importancia de la reproductibilidad ###
+¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico llamado Claerbout realizó la siguiente afirmación:
+> " Al día de hoy, pocos resultados publicados son reproducibles en un sentido práctico. Verificarlos requiere de tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esa razón, muchas personas ignoran la mayor parte de la literatura científica." (Claerbout, 1992)
+
 
 
 
