@@ -11,7 +11,7 @@ Usualmente, la reproductibilidad requiere que los datos y el código de programa
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de los Estados Unidos ([FDA](https://www.fda.gov/)), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importanca a la calidad de los datos utilizados en las investigaciones.
 Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de la configuración (Ziemann et al., 2016).
 
-![](https://programacion-sig-2020.github.io/tarea-01-markdown/img/ZiemannEtAlFig1.png)
+![](ejercicio02.png)
 
 
 
