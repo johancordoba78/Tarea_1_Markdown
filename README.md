@@ -13,6 +13,9 @@ Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 201
 
 ![](ejercicio02.png)
 
+Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
+
+## **Bibliografía** ##
 
 
 
